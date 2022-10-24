@@ -36,7 +36,7 @@ import { createUniqueMap } from './utils/dataStructures/uniqueMap';
 import { createShortcutManager } from './shortcuts';
 
 /* eslint-disable */
-console.log('test');
+console.log('test 2');
 /* eslint-enable */
 
 const SHORTCUTS_GROUP = 'gridDefault';
